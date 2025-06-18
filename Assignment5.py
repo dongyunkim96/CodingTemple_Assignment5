@@ -12,7 +12,7 @@ def no_space(x):
     # Replace all spaces in the string with an empty string
     return x.replace(" ", "")
 
-# Solution (Vowe Count)
+# Solution (Vowel Count)
 def count_vowels(sentence):
     # Define the set of vowels
     vowels = "aeiou"
